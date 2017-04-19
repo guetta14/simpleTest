@@ -20,7 +20,7 @@ public class SimpleTest {
     {
         Assert.assertEquals(1, 1);
     }
-   @Test  
+   //@Test  
    public void alwaysPass3()
    {
        Assert.assertEquals(1, 1);
